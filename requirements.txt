@@ -1,8 +1,10 @@
-numpy
 pandas
+numpy
 scikit-learn
+xgboost
 tensorflow
 matplotlib
 seaborn
 joblib
-xgboost
+Pillow
+redis
