@@ -77,7 +77,15 @@ Models were evaluated using:
 
 ## Results
 
-The repository contains confusion matrices and ROC curves for the implemented machine-learning models.
+The repository contains model evaluation results including confusion matrices and ROC curves for the implemented machine-learning models.
+
+### Proposed Neuro-Tree Fusion Model — Confusion Matrix
+
+![Proposed Model Confusion Matrix](results/Proposed_Neuro-Tree_Fusion_Model_confusion_matrix.png)
+
+### Proposed Neuro-Tree Fusion Model — ROC Curve
+
+![Proposed Model ROC Curve](results/Proposed_Neuro-Tree_Fusion_Model_ROC.png)
 
 ## Project Structure
 
